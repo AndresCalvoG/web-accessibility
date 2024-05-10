@@ -1,0 +1,16 @@
+/*
+Accesibilidad:
+1-revisar el contraste de colores segun wcag AA y AAA
+
+trabajar con iconos:
+agregar siempre texto a los iconos
+
+skip links: 
+elementos escondidos que contienen links a partes del contenido 
+para cuando estan usando tecnologias asistivas
+
+Estilar con focus and hover:
+className:focus 
+className:focus-within 
+
+*/
